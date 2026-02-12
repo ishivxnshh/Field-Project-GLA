@@ -1,0 +1,5 @@
+{
+  "buildCommand": "vite build",
+  "outputDirectory": "dist",
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD ./"
+}
